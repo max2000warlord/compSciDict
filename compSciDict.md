@@ -16,6 +16,7 @@ JavaScript: ESLint, JSHint
 
 Python: pylint, black (also a formatter)
 
+#### LSP
 
 ### Concepts
 
