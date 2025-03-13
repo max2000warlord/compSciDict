@@ -14,6 +14,8 @@ gcc -o program main.o lib.a
 
 Loads shared libraries at runtime. Smaller executable size, and allows for updating without having to compile the executable every time.
 
-> :note: **Examples:**
-> : lib.so files
-> : .dll files
+**Examples:**<br>
+
+|<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="30"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" height="30"/>|
+|---|---|
+|lib.&#8203;so files|.dll files|
