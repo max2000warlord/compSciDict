@@ -1,3 +1,5 @@
+# Binary Search
+
 A binary search function has four parameters in its function signature (method signature in Java):
 
 - The list, often initialised as **lst**.
