@@ -6,3 +6,5 @@ A binary search function has four parameters in its function signature (method s
 - The search parameter, which is referred to as the **key**.
 - The low end of the search range, often called something like **low**, **start**, or **floor**.
 - The high end of the search range, often called **high**, **end**, or **ceiling**.
+
+Time Complexity: O(log n)
